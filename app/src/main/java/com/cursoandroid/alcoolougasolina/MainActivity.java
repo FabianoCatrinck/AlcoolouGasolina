@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
           Double valorAlcool = Double.parseDouble(precoAlcool);
           Double valorGasolina = Double.parseDouble(precoGasolina);
 
+
           /*Fazer o calculo do menor preco
           * Se alcool dividido pela gasolina for maior ou igual a 0.7 é melhor usar gasolina
           *   do contrário é melhor usar alcool
